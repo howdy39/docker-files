@@ -1,9 +1,5 @@
-
 ## Command
 ```
-docker build ./ -t howdy39/st-node-nightmare
-docker push howdy39/st-node-nightmare
+docker build ./ -t howdy39/hogehoge
+docker push howdy39/hogehoge
 ```
-
-## Thanks
-https://github.com/reg-viz/node-xcb
